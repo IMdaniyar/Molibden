@@ -1,0 +1,40 @@
+c:\users\fariza\documents\visual studio 2010\Projects\diplom\diplom\bin\Debug\diplom.exe
+c:\users\fariza\documents\visual studio 2010\Projects\diplom\diplom\bin\Debug\diplom.pdb
+c:\users\fariza\documents\visual studio 2010\Projects\diplom\diplom\obj\x86\Debug\diplom.Form1.resources
+c:\users\fariza\documents\visual studio 2010\Projects\diplom\diplom\obj\x86\Debug\diplom.Properties.Resources.resources
+c:\users\fariza\documents\visual studio 2010\Projects\diplom\diplom\obj\x86\Debug\diplom.csproj.GenerateResource.Cache
+c:\users\fariza\documents\visual studio 2010\Projects\diplom\diplom\obj\x86\Debug\diplom.exe
+c:\users\fariza\documents\visual studio 2010\Projects\diplom\diplom\obj\x86\Debug\diplom.pdb
+C:\Users\Fariza\Documents\Visual Studio 2010\Projects\diplom\diplom\obj\x86\Debug\diplom.csprojResolveAssemblyReference.cache
+C:\Users\Fariza\Desktop\diplom\diplom\obj\x86\Debug\diplom.exe
+C:\Users\Fariza\Desktop\diplom\diplom\obj\x86\Debug\diplom.pdb
+C:\Users\Fariza\Desktop\diplom\diplom\bin\Debug\diplom.exe
+C:\Users\Fariza\Desktop\diplom\diplom\bin\Debug\diplom.pdb
+C:\Users\Fariza\Desktop\diplom\diplom\obj\x86\Debug\diplom.csprojResolveAssemblyReference.cache
+C:\Users\Fariza\Desktop\diplom\diplom\obj\x86\Debug\diplom.Form1.resources
+C:\Users\Fariza\Desktop\diplom\diplom\obj\x86\Debug\diplom.Properties.Resources.resources
+C:\Users\Fariza\Desktop\diplom\diplom\obj\x86\Debug\diplom.csproj.GenerateResource.Cache
+C:\Users\Fariza\Desktop\diplom_интерфейс\diplom\obj\x86\Debug\diplom.exe
+C:\Users\Fariza\Desktop\diplom_интерфейс\diplom\obj\x86\Debug\diplom.pdb
+C:\Users\Fariza\Desktop\diplom_интерфейс\diplom\bin\Debug\diplom.exe
+C:\Users\Fariza\Desktop\diplom_интерфейс\diplom\bin\Debug\diplom.pdb
+C:\Users\Fariza\Desktop\diplom_интерфейс\diplom\obj\x86\Debug\diplom.csprojResolveAssemblyReference.cache
+C:\Users\Fariza\Desktop\diplom_интерфейс\diplom\obj\x86\Debug\diplom.Form1.resources
+C:\Users\Fariza\Desktop\diplom_интерфейс\diplom\obj\x86\Debug\diplom.Properties.Resources.resources
+C:\Users\Fariza\Desktop\diplom_интерфейс\diplom\obj\x86\Debug\diplom.csproj.GenerateResource.Cache
+D:\diplom_интерфейс\diplom\obj\x86\Debug\diplom.exe
+D:\diplom_интерфейс\diplom\obj\x86\Debug\diplom.pdb
+D:\diplom_интерфейс\diplom\bin\Debug\diplom.exe
+D:\diplom_интерфейс\diplom\bin\Debug\diplom.pdb
+D:\diplom_интерфейс\diplom\obj\x86\Debug\diplom.csprojResolveAssemblyReference.cache
+D:\diplom_интерфейс\diplom\obj\x86\Debug\diplom.Form1.resources
+D:\diplom_интерфейс\diplom\obj\x86\Debug\diplom.Properties.Resources.resources
+D:\diplom_интерфейс\diplom\obj\x86\Debug\diplom.csproj.GenerateResource.Cache
+D:\Фариза Ракымжанкызы\сабактар\диплом Фаризааа\diplom_интерфейс\diplom\obj\x86\Debug\diplom.exe
+D:\Фариза Ракымжанкызы\сабактар\диплом Фаризааа\diplom_интерфейс\diplom\obj\x86\Debug\diplom.pdb
+D:\Фариза Ракымжанкызы\сабактар\диплом Фаризааа\diplom_интерфейс\diplom\bin\Debug\diplom.exe
+D:\Фариза Ракымжанкызы\сабактар\диплом Фаризааа\diplom_интерфейс\diplom\bin\Debug\diplom.pdb
+D:\Фариза Ракымжанкызы\сабактар\диплом Фаризааа\diplom_интерфейс\diplom\obj\x86\Debug\diplom.csprojResolveAssemblyReference.cache
+D:\Фариза Ракымжанкызы\сабактар\диплом Фаризааа\diplom_интерфейс\diplom\obj\x86\Debug\diplom.Form1.resources
+D:\Фариза Ракымжанкызы\сабактар\диплом Фаризааа\diplom_интерфейс\diplom\obj\x86\Debug\diplom.Properties.Resources.resources
+D:\Фариза Ракымжанкызы\сабактар\диплом Фаризааа\diplom_интерфейс\diplom\obj\x86\Debug\diplom.csproj.GenerateResource.Cache
